@@ -1,0 +1,8 @@
+{
+  "name": "Aapda Mitra",
+  "description": "A web-based platform to help local people and authorities during natural disasters. It provides real-time alerts, survival guides, shelter information, and volunteer coordination, designed to work even in low-bandwidth conditions.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
